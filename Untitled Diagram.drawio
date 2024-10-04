@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="s16e7mE0uYyDLxfN_XTd">
-    <mxGraphModel>
+    <mxGraphModel dx="2318" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-1" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=-45;fillStyle=auto;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="114.75" y="108.45" width="640" height="625.15" as="geometry" />
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-16" value="&lt;h2 style=&quot;box-sizing: border-box; margin: 0px 0px 16px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 300; font-stretch: inherit; font-size: 32px; line-height: 1.2; font-family: Amplitude, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(60, 63, 70);&quot;&gt;Policy Development&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#5C92FF;labelBorderColor=default;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="319.75" y="170" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-17" value="&lt;h2 style=&quot;box-sizing: border-box; margin: 0px 0px 16px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 300; font-stretch: inherit; font-size: 32px; line-height: 1.2; font-family: Amplitude, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(60, 63, 70);&quot;&gt;Policy Publication&lt;/h2&gt;" style="text;strokeColor=#9673a6;align=center;fillColor=#e1d5e7;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#74FF5E;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="530" y="371.02" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-18" value="&lt;h2 style=&quot;box-sizing: border-box; margin: 0px 0px 16px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 300; font-stretch: inherit; font-size: 32px; line-height: 1.2; font-family: Amplitude, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(60, 63, 70); text-align: left;&quot;&gt;Policy Adoption&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFBA75;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="319.75" y="550" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-19" value="&lt;h2 style=&quot;box-sizing: border-box; margin: 0px 0px 16px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 300; font-stretch: inherit; font-size: 32px; line-height: 1.2; font-family: Amplitude, sans-serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(60, 63, 70); text-align: left;&quot;&gt;Policy Review&lt;/h2&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFBFD2;labelBorderColor=default;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="371.02" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-30" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;dashed=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="TAXu7XQS-T4pUoDsKCwr-16" target="TAXu7XQS-T4pUoDsKCwr-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-33" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;dashed=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="TAXu7XQS-T4pUoDsKCwr-17" target="TAXu7XQS-T4pUoDsKCwr-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609.39" y="480" as="sourcePoint" />
+            <mxPoint x="679.39" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-35" value="" style="endArrow=classic;html=1;rounded=0;flowAnimation=1;dashed=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="TAXu7XQS-T4pUoDsKCwr-19" target="TAXu7XQS-T4pUoDsKCwr-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="298.45" as="sourcePoint" />
+            <mxPoint x="310" y="363.45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-37" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;flowAnimation=1;shadow=1;strokeWidth=3;" edge="1" parent="1" target="TAXu7XQS-T4pUoDsKCwr-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="550" as="sourcePoint" />
+            <mxPoint x="410" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-38" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.gamelift;fillColor=#AD688B;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="260" width="70.5" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="396" width="68" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-40" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.adaptive_security_appliance;" vertex="1" parent="1">
+          <mxGeometry x="384.63" y="480" width="100.25" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TAXu7XQS-T4pUoDsKCwr-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/customer-experience-1/32/Add_Review-128.png" vertex="1" parent="1">
+          <mxGeometry x="340" y="378" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
